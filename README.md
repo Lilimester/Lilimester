@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lilimester
 - 👀 I’m interested in Mobile application development through Android and flutter.
-- 🌱 I’m currently learning Flutter and React Native.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Android Mobile application development.
 
 <!---
